@@ -2,7 +2,7 @@
 Baixa videos do youtube e converte em mp3
 
 Necessario:
- * requeste
+ * requests
  * selenium
  * youtube-dl
  * chromedriver.exe
