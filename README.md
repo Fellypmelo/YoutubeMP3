@@ -5,4 +5,4 @@ Necessario:
  * requeste
  * selenium
  * youtube-dl
- * chromedriver
+ * chromedriver.exe
